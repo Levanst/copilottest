@@ -4,5 +4,6 @@
     "main": "index.html",
     "scripts": {
       "start": "node index.html"
-    }
+    },
+     "build": "echo 'No build step required'"
   }
